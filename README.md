@@ -3,8 +3,6 @@
 AuthClassed is a class, written in PHP, to implement a simple authentification scheme for 
 database-oriented webpages. Using AuthClassed is as simple as putting a single code line 
 at the top of the webpage you would like to protect.
-
-
 TABLE OF CONTENTS
 
 1. GETTING THE FILES
